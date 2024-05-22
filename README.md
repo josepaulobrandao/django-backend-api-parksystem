@@ -13,6 +13,8 @@ Colne project:
 ```
 git@github.com:josepaulobrandao/django-backend-api-person.git
 ```
+Activate virtual envrimenment
+
 linux
 
 ```
