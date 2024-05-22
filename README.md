@@ -37,3 +37,8 @@ docker run --name postgres-db -p 5432:5432 -e POSTGRES_DB=root -e POSTGRES_USER=
 ```
 
 
+Run project
+
+```
+python manage.py runserver
+```
